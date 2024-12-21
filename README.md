@@ -58,10 +58,10 @@
 
 <div align="center">
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadjon-merzaqulov&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadjon-merzaqulov&theme=dark" alt="GitHub Streak" /><br>
  
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadjon-merzaqulov&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadjon-merzaqulov&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /><br>
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadjon-merzaqulov&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
