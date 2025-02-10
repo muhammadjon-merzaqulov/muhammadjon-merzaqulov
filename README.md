@@ -27,7 +27,7 @@
   <a href="https://linkedin.com/in/muhammadjon-merzaqulov-25150323b" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://t.me/merzaqulov" target="_blank" rel="noopener noreferrer">
+  <a href="https://t.me/merzaqulov1" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="mailto:merzaqulov1@gmail.com" target="_blank" rel="noopener noreferrer">
