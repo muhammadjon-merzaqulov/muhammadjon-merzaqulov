@@ -24,7 +24,7 @@
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/muhammadjon-merzaqulov-25150323b" target="_blank" rel="noopener noreferrer">
+  <a href="https://linkedin.com/in/muhammadjon-merzaqulov" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/muhammadjon-merzaqulov/" target="_blank" rel="noopener noreferrer">
