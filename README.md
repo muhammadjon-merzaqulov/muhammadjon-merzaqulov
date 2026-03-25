@@ -17,7 +17,7 @@
 - 🌱 I’m exploring **Machine Learning** and **Advanced Data Visualization**.
 - 📊 I specialize in **Data Cleaning**, **Exploratory Data Analysis (EDA)**, and **Dashboard Development**.
 - ⚡ Fun fact: I enjoy solving complex business problems with data and creating visual stories!
-- 📫 How to reach me: [merzaqulov1@gmail.com](mailto:merzaqulov1@gmail.com)
+- 📫 How to reach me: [mail@muhammadjon.uz](mailto:mail@muhammadjon.uz)
 
 ---
 
