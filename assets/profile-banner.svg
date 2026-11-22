@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="510" viewBox="0 0 1440 510" role="img" aria-labelledby="title desc">
+<title id="title">Muhammadjon Merzaqulov — Data Analytics, Python and Django</title>
+<desc id="desc">A navy and cyan profile banner with a stylized analytical dashboard. From raw data to useful decisions.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#102A3A"/></linearGradient>
+ <linearGradient id="accent"><stop stop-color="#38BDF8"/><stop offset="1" stop-color="#34D399"/></linearGradient>
+ <linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#38BDF8" stop-opacity=".24"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></linearGradient>
+ <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M 36 0 H 0 V 36" fill="none" stroke="#93C5FD" stroke-opacity=".045"/></pattern>
+</defs>
+<rect width="1440" height="510" rx="24" fill="url(#bg)"/>
+<rect width="1440" height="510" rx="24" fill="url(#grid)"/>
+<path d="M1050 0 L1440 290 V510 H1300 L830 0" fill="#38BDF8" opacity=".025"/>
+<rect x="56" y="62" width="7" height="25" rx="3" fill="url(#accent)"/>
+<text x="80" y="81" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="3" fill="#8BDCF7">DATA ANALYTICS / PYTHON / DJANGO</text>
+<text x="56" y="170" font-family="Arial,Helvetica,sans-serif" font-size="66" font-weight="700" fill="#F8FAFC">Muhammadjon</text>
+<text x="56" y="244" font-family="Arial,Helvetica,sans-serif" font-size="66" font-weight="700" fill="#F8FAFC">Merzaqulov<tspan fill="#34D399">.</tspan></text>
+<text x="59" y="301" font-family="Arial,Helvetica,sans-serif" font-size="25" fill="#B7C9DD">From raw data to useful decisions.</text>
+<text x="59" y="348" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#8DA6BF">SQL analysis · Interactive dashboards · Web applications</text>
+<rect x="58" y="395" width="314" height="42" rx="21" fill="#112D38" stroke="#265348"/>
+<circle cx="80" cy="416" r="4" fill="#34D399"/>
+<text x="96" y="422" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#BDEADD">PDP University · Tashkent, Uzbekistan</text>
+<g transform="translate(858 69)">
+ <rect width="526" height="372" rx="19" fill="#071320" stroke="#24445A"/>
+ <path d="M0 47 H526" stroke="#24445A"/>
+ <circle cx="24" cy="24" r="4" fill="#38BDF8"/><circle cx="40" cy="24" r="4" fill="#34D399"/><circle cx="56" cy="24" r="4" fill="#486479"/>
+ <text x="84" y="29" font-family="monospace" font-size="13" fill="#A4BDD1">analysis_workspace</text>
+ <text x="29" y="85" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#88A8C0">EXPLORE. UNDERSTAND. BUILD.</text>
+ <g transform="translate(28 105)">
+  <rect width="144" height="52" rx="8" fill="#102535"/><rect x="162" width="144" height="52" rx="8" fill="#102535"/><rect x="324" width="144" height="52" rx="8" fill="#102535"/>
+  <text x="16" y="23" font-family="monospace" font-size="12" fill="#38BDF8">01 / INPUT</text><text x="16" y="41" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#E2E8F0">Raw datasets</text>
+  <text x="178" y="23" font-family="monospace" font-size="12" fill="#38BDF8">02 / PROCESS</text><text x="178" y="41" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#E2E8F0">Clear analysis</text>
+  <text x="340" y="23" font-family="monospace" font-size="12" fill="#34D399">03 / OUTPUT</text><text x="340" y="41" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#E2E8F0">Useful insights</text>
+ </g>
+ <g transform="translate(29 188)">
+  <path d="M0 20 H295 M0 60 H295 M0 100 H295 M0 140 H295" stroke="#183244"/>
+  <path d="M0 118 L32 103 L64 110 L97 74 L130 85 L164 49 L196 64 L229 28 L261 43 L294 8 V145 H0 Z" fill="url(#area)"/>
+  <path d="M0 118 L32 103 L64 110 L97 74 L130 85 L164 49 L196 64 L229 28 L261 43 L294 8" fill="none" stroke="#38BDF8" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="294" cy="8" r="5" fill="#34D399"/>
+  <rect x="328" y="93" width="24" height="47" rx="3" fill="#1D5066"/><rect x="365" y="55" width="24" height="85" rx="3" fill="#277792"/><rect x="402" y="76" width="24" height="64" rx="3" fill="#38BDF8"/><rect x="439" y="18" width="24" height="122" rx="3" fill="#34D399"/>
+ </g>
+ <text x="29" y="355" font-family="monospace" font-size="11" fill="#718DA5">ILLUSTRATIVE WORKSPACE / NOT LIVE METRICS</text>
+</g>
+<rect x="56" y="480" width="1328" height="2" rx="1" fill="url(#accent)" opacity=".65"/>
+</svg>
