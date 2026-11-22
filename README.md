@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="assets/profile-banner.svg" alt="Muhammadjon Merzaqulov — Data Analytics, Python and Django. From raw data to useful decisions." width="100%" />
+  <img src="https://raw.githubusercontent.com/muhammadjon-merzaqulov/muhammadjon-merzaqulov/main/assets/profile-banner.svg" alt="Muhammadjon Merzaqulov — Data Analytics, Python and Django. From raw data to useful decisions." width="100%" />
 </div>
 
 <h1 align="center">Hi, I'm Muhammadjon 👋</h1>
 
 <p align="center">
-  <strong>Data Analytics student at PDP University · Python &amp; Django developer</strong><br />
-  Based in Tashkent, Uzbekistan.<br /><br />
+  <strong>Software Engineer · Data Analytics · Python &amp; Django</strong><br />
+  Tashkent Branch of MUCTR · Data Analytics student at PDP University<br /><br />
   I work with data to find patterns, explain business performance, and build useful tools.<br />
   My projects span SQL analysis, Power BI dashboards, data cleaning, and web applications.
 </p>
@@ -28,7 +28,7 @@
 
 ## 🧭 About me
 
-I'm Muhammadjon Merzaqulov, a Data Analytics student who enjoys connecting analytical work with practical software development.
+I'm Muhammadjon Merzaqulov, a Software Engineer at the Tashkent Branch of MUCTR (Mendeleev University of Chemical Technology of Russia) and a Data Analytics student at PDP University. Based in Tashkent, Uzbekistan, I enjoy connecting analytical work with practical software development.
 
 - **Data preparation:** clean inconsistent values, handle missing data, standardize formats, and combine datasets with Python, Pandas, and NumPy.
 - **Analysis:** use SQL to investigate sales trends, product performance, profitability, and differences across locations.
@@ -135,7 +135,7 @@ Supervised and unsupervised learning notebooks exploring Gen Z health scores and
 ## 🔎 My approach to analysis
 
 <p align="center">
-  <img src="assets/analytics-workflow.svg" alt="Analysis workflow: ask a clear question, prepare the data, explore patterns, and communicate the findings." width="100%" />
+  <img src="https://raw.githubusercontent.com/muhammadjon-merzaqulov/muhammadjon-merzaqulov/main/assets/analytics-workflow.svg" alt="Analysis workflow: ask a clear question, prepare the data, explore patterns, and communicate the findings." width="100%" />
 </p>
 
 1. **Start with the question.** Define what needs to be understood and which metrics matter.
